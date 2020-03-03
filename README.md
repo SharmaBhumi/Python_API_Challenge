@@ -15,7 +15,7 @@ Various scatter plots are created to showcase the following relationships:
 * Wind Speed (mph) vs. Latitude
 
 ## Findings:
----
+
 **Latitude vs. Temperature Plot**
 - Scatter Plot shows the gradual increase in temperature as the distance from Equator (0 Latitude) decreases.
 - Regions closer to Earth’s equator experience higher temperatures than 
@@ -33,7 +33,7 @@ percentage of Humidity
 **Latitude vs. Wind Speed Plot**
 -	Scatter Plot shows Wind speed up to 10mph for all Latitude. Wind speed is increasing towards higher Latitude especially in Northern Hemisphere with speeds reaching up to 20 mph for some cities.
 
-
+---
 ### Libraries/Tool used :
 - Pandas ,Matplotlib ,Numpy
 - requests,time,os,csv
